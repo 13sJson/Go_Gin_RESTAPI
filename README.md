@@ -1,2 +1,2 @@
 # Go_Gin_RESTAPI
- RESTAPIを触れてみた（バックエンドのみ）
+ Go×GinでRESTAPIを実装してみた(バックエンド側のみ)
